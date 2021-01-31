@@ -1,5 +1,7 @@
 ### Hi there, I'm Kevin 👋
 
+- 🔭 I’m currently working on Helios Proxies and Apollo Dashboards
+
 <!--
 **kgonzale/kgonzale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
