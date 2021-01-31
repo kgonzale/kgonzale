@@ -1,8 +1,8 @@
 ### Hi there, I'm Kevin 👋
 
 
-- I'm a graduate in Computer Science, currently a fullstack developer in React and C#
--  I’m currently working on Helios Proxies and Apollo Dashboards
+- I'm a graduate in Computer Science, currently a fullstack developer in **React** and **C#**
+-  I’m currently working on **Helios Proxies** and **Apollo Dashboards**
 -  I'm focused on providing tools for sneaker enthusiasts
 
 
